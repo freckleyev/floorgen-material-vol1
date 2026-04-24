@@ -1,0 +1,443 @@
+[
+  {
+    "category": "Wood",
+    "title": "Ash Classic Natural",
+    "image": "./images/MT_Wood_Ash_Classic_Natural_200x20.jpg",
+    "board_size": "200cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "5670 x 567 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Ash Natural",
+    "image": "./images/MT_Wood_Ash_Natural_300x30.jpg",
+    "board_size": "300cm x 30cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "8500 x 850 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Douglas Classic",
+    "image": "./images/MT_Wood_Douglas_Classic_350x35.jpg",
+    "board_size": "350cm x 35cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "9920 x 992 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak A",
+    "image": "./images/MT_Wood_Oak_130x20.jpg",
+    "board_size": "130cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "4000 x 400 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak",
+    "image": "./images/MT_Wood_Oak_190x19.jpg",
+    "board_size": "190cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "8192 x 819 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak B",
+    "image": "./images/MT_Wood_Oak_B_190x19.jpg",
+    "board_size": "190cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "8192 x 819 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak C",
+    "image": "./images/MT_Wood_Oak_C_190x19.jpg",
+    "board_size": "190cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "8192 x 819 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Classic",
+    "image": "./images/MT_Wood_Oak_Classic_330x30.jpg",
+    "board_size": "330cm x 30cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "9350 x 850 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Classic Natural",
+    "image": "./images/MT_Wood_Oak_Classic_Natural_282x20.jpg",
+    "board_size": "282cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "8000 x 567 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Classic Natural Clean",
+    "image": "./images/MT_Wood_Oak_Classic_Natural_Clean_219x20.jpg",
+    "board_size": "219cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "6200 x 567 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Heart",
+    "image": "./images/MT_Wood_OakHeart_250x25.jpg",
+    "board_size": "250cm x 25cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "9250 x 1417 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Heart",
+    "image": "./images/MT_Wood_OakHeart_326x50.jpg",
+    "board_size": "326cm x 50cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "9250 x 1417 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Heart",
+    "image": "./images/MT_Wood_OakHeart_300x35.jpg",
+    "board_size": "300cm x 35cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "8503 x 992 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Natural",
+    "image": "./images/MT_Wood_Oak_Natural_250x25.jpg",
+    "board_size": "250cm x 25cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "7080 x 708 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Natural",
+    "image": "./images/MT_Wood_Oak_Natural_330x30.jpg",
+    "board_size": "330cm x 30cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "9350 x 850 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak White",
+    "image": "./images/MT_Wood_Oak_White_128x19.jpg",
+    "board_size": "128cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "1683 x 250 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Walnut Natural American",
+    "image": "./images/MT_Wood_Walnut_Natural_American_128x19.jpg",
+    "board_size": "128cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1800 x 300 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Bremen Ash",
+    "image": "./images/MT_Ceramic_Bremen_Ash_120x19.jpg",
+    "board_size": "120cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1417 x 225 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Bremen Natural",
+    "image": "./images/MT_Ceramic_Bremen_Natural_120x19.jpg",
+    "board_size": "120cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1417 x 225 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Bremen Nut",
+    "image": "./images/MT_Ceramic_Bremen_Nut_120x19.jpg",
+    "board_size": "120cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1417 x 225 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Bremen Roble",
+    "image": "./images/MT_Ceramic_Bremen_Roble_120x19.jpg",
+    "board_size": "120cm x 19cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1417 x 225 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "FMG WalkOn Sand",
+    "image": "./images/MT_Ceramic_FMG_WalkOn_Sand_150x150.jpg",
+    "board_size": "150cm x 150cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "3000 x 3000 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Museum Lava Oat",
+    "image": "./images/MT_Ceramic_Museum_Lava_Oat_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "2000 x 1000 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Porcelanosa Massa Pul",
+    "image": "./images/MT_Ceramic_Porcelanosa_Massa_Pul_118x118.jpg",
+    "board_size": "118cm x 118cm",
+    "type": "MultiTexture",
+    "texture_count": 12,
+    "dimensions": "1402 x 1402 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Venis Indic",
+    "image": "./images/MT_Ceramic_Venis_Indic_100x100.jpg",
+    "board_size": "100cm x 100cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "1181 x 1181 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Cliff Ash",
+    "image": "./images/MT_Porcelain_ABK_Cliff_Ash_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "1772 x 1772 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Cliff Ivory",
+    "image": "./images/MT_Porcelain_ABK_Cliff_Ivory_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "4724 x 4724 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Cliff Ivory Chevron",
+    "image": "./images/MT_Porcelain_ABK_Cliff_Ivory_Chevron_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "4724 x 2364 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Carpet Mix Multicolor",
+    "image": "./images/MT_Porcelain_ABK_Play_Carpet_Mix_Multicolor_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1170 x 1170 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Classic Brown",
+    "image": "./images/MT_Porcelain_ABK_Play_Classic_Brown_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1170 x 1170 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Classic Cotto",
+    "image": "./images/MT_Porcelain_ABK_Play_Classic_Cotto_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1181 x 1181 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Classic Mix Multicolor",
+    "image": "./images/MT_Porcelain_ABK_Play_Classic_Mix_Multicolor_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1181 x 1181 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Classic Sage",
+    "image": "./images/MT_Porcelain_ABK_Play_Classic_Sage_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1181 x 1181 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Classic Sky",
+    "image": "./images/MT_Porcelain_ABK_Play_Classic_Sky_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1181 x 1181 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Dots Multiblack",
+    "image": "./images/MT_Porcelain_ABK_Play_Dots_Multiblack_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "1600 x 1600 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Dots Multiwhite",
+    "image": "./images/MT_Porcelain_ABK_Play_Dots_Multiwhite_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "1600 x 1600 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Dots White",
+    "image": "./images/MT_Porcelain_ABK_Play_Dots_White_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "1600 x 1600 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Drops Multiblack",
+    "image": "./images/MT_Porcelain_ABK_Play_Drops_Multiblack_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "886 x 886 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Drops Multiwhite",
+    "image": "./images/MT_Porcelain_ABK_Play_Drops_Multiwhite_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "886 x 886 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Heritage Grey",
+    "image": "./images/MT_Porcelain_ABK_Play_Heritage_Grey_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1160 x 1160 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Play Heritage Pearl",
+    "image": "./images/MT_Porcelain_ABK_Play_Heritage_Pearl_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1160 x 1160 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "DecoVita Marble Royal",
+    "image": "./images/MT_Porcelain_DecoVita_Marble_Royal_240x120.jpg",
+    "board_size": "240cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 7,
+    "dimensions": "2400 x 1200 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Terrazzo Pamesa Urbex Marengo",
+    "image": "./images/SL_Stone_Terrazzo_Pamesa_Urbex_Marengo.jpg",
+    "type": "Seamless",
+    "dimensions": "6000 x 6000 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Terrazzo Pamesa Urbex Perla",
+    "image": "./images/SL_Stone_Terrazzo_Pamesa_Urbex_Perla.jpg",
+    "type": "Seamless",
+    "dimensions": "6000 x 6000 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Traventine Panna Veincut",
+    "image": "./images/SL_Stone_Traventine_Panna_Veincut.jpg",
+    "type": "Seamless",
+    "dimensions": "6144 x 6144 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Vitra Ceppostone Dreige",
+    "image": "./images/SL_Stone_Vitra_Ceppostone_Dreige.jpg",
+    "type": "Seamless",
+    "dimensions": "6000 x 6000 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak D",
+    "image": "./images/SL_Wood_Oak_D.jpg",
+    "type": "Seamless",
+    "dimensions": "4096 x 4096 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Lawson Brushed",
+    "image": "./images/SL_Wood_Oak_Lawson_Brushed.jpg",
+    "type": "Seamless",
+    "dimensions": "8000 x 6000 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Missisippi Wild",
+    "image": "./images/SL_Wood_Oak_Missisippi_Wild.jpg",
+    "type": "Seamless",
+    "dimensions": "8000 x 6000 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Princeton Firestop",
+    "image": "./images/SL_Wood_Oak_Princeton_Firestop.jpg",
+    "type": "Seamless",
+    "dimensions": "8000 x 6000 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Vicksburg Firestop",
+    "image": "./images/SL_Wood_Oak_Vicksburg_Firestop.jpg",
+    "type": "Seamless",
+    "dimensions": "8000 x 6000 px"
+  }
+]

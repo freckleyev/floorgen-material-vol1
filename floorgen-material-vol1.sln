@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "floorgen-material-vol1(1)", ".", "{F8414E4D-4ACE-425E-89EB-7D41C3F35729}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54855"
+		Debug.AspNetCompiler.PhysicalPath = "..\floorgen-material-vol1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54855\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54855"
+		Release.AspNetCompiler.PhysicalPath = "..\floorgen-material-vol1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54855\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54855"
+		SlnRelativePath = "..\floorgen-material-vol1\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8414E4D-4ACE-425E-89EB-7D41C3F35729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8414E4D-4ACE-425E-89EB-7D41C3F35729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829570FA-66E1-4770-BC5E-7B06CAF329DB}
+	EndGlobalSection
+EndGlobal
