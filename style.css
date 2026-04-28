@@ -155,11 +155,10 @@ body {
     text-align: center;
     padding: 12px 25px;
     border: 1px solid var(--accent);
-    border-radius: 50px; /* Pill-shaped button */
+    border-radius: 0.75rem;
     color: var(--accent);
-    font-size: 1.25rem;
+    font-size: 2rem;
     text-decoration: none;
-    margin-bottom: 30px;
     transition: background-color 0.3s, color 0.3s;
 }
 .manual-link:hover {
@@ -195,8 +194,6 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 2rem;
     max-width: 100%;
-    margin-top: 40px;
-    margin-bottom: 40px;
 }
 
 /* Product Card Styling */
