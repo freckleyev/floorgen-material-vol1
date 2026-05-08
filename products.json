@@ -439,5 +439,410 @@
     "image": "./images/SL_Wood_Oak_Vicksburg_Firestop.jpg",
     "type": "Seamless",
     "dimensions": "8000 x 6000 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Alma Breccia Capraia",
+    "image": "./images/MT_Ceramic_Alma_Breccia_Capraia_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "960 x 960 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "FMG Rialto Beige",
+    "image": "./images/MT_Ceramic_FMG_Rialto_Beige_60x60.jpg",
+    "board_size": "60cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "3000 x 3000 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "FMG Rialto Earth",
+    "image": "./images/MT_Ceramic_FMG_Rialto_Earth_60x60.jpg",
+    "board_size": "60cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "3000 x 3000 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "FMG Rialto Silver",
+    "image": "./images/MT_Ceramic_FMG_Rialto_Silver_60x60.jpg",
+    "board_size": "60cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "3000 x 3000 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "FMG Rialto White",
+    "image": "./images/MT_Ceramic_FMG_Rialto_White_60x60.jpg",
+    "board_size": "60cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "3000 x 3000 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "ITT Syrac",
+    "image": "./images/MT_Ceramic_ITT_Syrac_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1181 x 590 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "ITT Tundra Cream",
+    "image": "./images/MT_Ceramic_ITT_Tundra_Cream_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 12,
+    "dimensions": "1181 x 591 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet Ash",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_Ash_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "4724 x 4724 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet Ash",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_Ash_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 12,
+    "dimensions": "4724 x 2362 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet Coal",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_Coal_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "4724 x 4724 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet Coal",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_Coal_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 12,
+    "dimensions": "4724 x 2362 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet Milk",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_Milk_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "4724 x 4724 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet PatchBlue",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_PatchBlue_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 13,
+    "dimensions": "4724 x 2362 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet PatchGrey",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_PatchGrey_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 13,
+    "dimensions": "4724 x 2362 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet PatchOrange",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_PatchOrange_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 13,
+    "dimensions": "4724 x 2362 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet Tobacco",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_Tobacco_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "4724 x 4724 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryNet Tobacco",
+    "image": "./images/MT_Porcelain_ABK_PoetryNet_Tobacco_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 12,
+    "dimensions": "4724 x 2362 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryStoneReloaded Jura Ash",
+    "image": "./images/MT_Porcelain_ABK_PoetryStoneReloaded_Jura_Ash_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "1600 x 1600 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryStoneReloaded Jura Sand",
+    "image": "./images/MT_Porcelain_ABK_PoetryStoneReloaded_Jura_Sand_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "1600 x 1600 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK PoetryStoneReloaded Wet",
+    "image": "./images/MT_Porcelain_ABK_PoetryStoneReloaded_Wet_60x60.jpg",
+    "board_size": "60cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 16,
+    "dimensions": "1600 x 1600 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK SensiFantasy Flower",
+    "image": "./images/MT_Porcelain_ABK_SensiFantasy_Flower_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 3,
+    "dimensions": "4724 x 2362 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "Mutina Dintori Ombra",
+    "image": "./images/MT_Porcelain_Mutina_Dintori_Ombra_20x20.jpg",
+    "board_size": "20cm x 20cm",
+    "type": "MultiTexture",
+    "dimensions": "2897 x 2881 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Anthracite",
+    "image": "./images/MT_Stone_Keope_Artemis_Anthracite_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 5,
+    "dimensions": "2362 x 2362 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Anthracite",
+    "image": "./images/MT_Stone_Keope_Artemis_Anthracite_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "2362 x 1181 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Beige",
+    "image": "./images/MT_Stone_Keope_Artemis_Beige_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "2362 x 2362 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Beige",
+    "image": "./images/MT_Stone_Keope_Artemis_Beige_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "2362 x 1181 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Grey",
+    "image": "./images/MT_Stone_Keope_Artemis_Grey_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "2362 x 2362 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Grey",
+    "image": "./images/MT_Stone_Keope_Artemis_Grey_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "2362 x 1181 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Silver",
+    "image": "./images/MT_Stone_Keope_Artemis_Silver_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "2362 x 2362 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis Silver",
+    "image": "./images/MT_Stone_Keope_Artemis_Silver_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "2362 x 1181 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis White",
+    "image": "./images/MT_Stone_Keope_Artemis_White_120x120.jpg",
+    "board_size": "120cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "1600 x 1600 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Keope Artemis White",
+    "image": "./images/MT_Stone_Keope_Artemis_White_120x60.jpg",
+    "board_size": "120cm x 60cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "1600 x 800 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Marble Silver",
+    "image": "./images/MT_Stone_Marble_Silver_240x120.jpg",
+    "board_size": "240cm x 120cm",
+    "type": "MultiTexture",
+    "texture_count": 10,
+    "dimensions": "2400 x 1200 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Eagle Wildwood",
+    "image": "./images/MT_Wood_Oak_Eagle_Wildwood.jpg",
+    "type": "MultiTexture",
+    "texture_count": 8,
+    "dimensions": "6145 x 1035 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Scheucher Ibiza",
+    "image": "./images/MT_Wood_Oak_Scheucher_Ibiza.jpg",
+    "type": "MultiTexture",
+    "texture_count": 6,
+    "dimensions": "5100 x 500 px"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Wowdesign Melange Earth-Cream-Lake",
+    "image": "./images/SL_Ceramic_Wowdesign_Melange_Earth-Cream-Lake.jpg",
+    "type": "Procedural"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Wowdesign Melange Earth-Sky",
+    "image": "./images/SL_Ceramic_Wowdesign_Melange_Earth-Sky.jpg",
+    "type": "Procedural"
+  },
+  {
+    "category": "Ceramic",
+    "title": "Wowdesign Melange Rose-Cream",
+    "image": "./images/SL_Ceramic_Wowdesign_Melange_Rose-Cream.jpg",
+    "type": "Procedural"
+  },
+  {
+    "category": "Metal",
+    "title": "Brass A",
+    "image": "./images/SL_Metal_Brass_A.jpg",
+    "type": "Seamless",
+    "dimensions": "4096 x 4096 px"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Alterego Bark Sand",
+    "image": "./images/SL_Porcelain_ABK_Alterego_Bark_Sand.jpg",
+    "type": "Procedural"
+  },
+  {
+    "category": "Porcelain",
+    "title": "ABK Alterego Mou Cotto",
+    "image": "./images/SL_Porcelain_ABK_Alterego_Mou_Cotto.jpg",
+    "type": "Procedural"
+  },
+  {
+    "category": "Stone",
+    "title": "Limestone Jura Gelb",
+    "image": "./images/SL_Stone_Limestone_Jura_Gelb.jpg",
+    "type": "Seamless",
+    "dimensions": "13000 x 8000 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Marble A Beige",
+    "image": "./images/SL_Stone_Marble_A_Beige.jpg",
+    "type": "Seamless",
+    "dimensions": "6000 x 6000 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Marble A Black",
+    "image": "./images/SL_Stone_Marble_A_Black.jpg",
+    "type": "Seamless",
+    "dimensions": "6000 x 6000 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Marble B Black",
+    "image": "./images/SL_Stone_Marble_B_Black.jpg",
+    "type": "Seamless",
+    "dimensions": "5636 x 5636 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Marble B White",
+    "image": "./images/SL_Stone_Marble_B_White.jpg",
+    "type": "Seamless",
+    "dimensions": "5636 x 5636 px"
+  },
+  {
+    "category": "Stone",
+    "title": "Marble Calacatta Viola",
+    "image": "./images/SL_Stone_Marble_Calacatta_Viola.jpg",
+    "type": "Seamless",
+    "dimensions": "6144 x 6144 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak C",
+    "image": "./images/SL_Wood_Oak_C.jpg",
+    "type": "Seamless",
+    "dimensions": "2703 x 2703 px"
+  },
+  {
+    "category": "Wood",
+    "title": "Oak Tundra Brushed",
+    "image": "./images/SL_Wood_Oak_Tundra_Brushed.jpg",
+    "type": "Seamless",
+    "dimensions": "8192 x 8192 px"
   }
 ]
